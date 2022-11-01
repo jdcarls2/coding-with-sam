@@ -1,0 +1,87 @@
+Name,Type,Count,Fruity,Sour,Chocolate,Nuts,Caramel,Nougat,Texture,Box / Wrapper,Special Feature
+M&M,Classic,17,No,No,Milk,No,No,No,Hard,Pouch,
+M&M,Peanut,5,No,No,Milk,Peanut,No,No,Hard,Pouch,
+M&M,Caramel,2,No,No,Milk,No,Yes,No,Hard,Pouch,
+M&M,Peanut Butter,1,No,No,Milk,Peanut,No,No,Hard,Pouch,
+Skittles,Shriekers,5,Yes,Yes,No,No,No,No,Hard,Pouch,
+Skittles,Classic,2,Yes,No,No,No,No,No,Hard,Pouch,
+Skittles,Wild Berry,2,Yes,No,No,No,No,No,Hard,Pouch,
+Hubba Bubba,,2,Yes,No,No,No,No,No,Chewy,Box,
+Twizzlers,Twists,6,Yes,No,No,No,No,No,Chewy,Wrapper,
+Twizzlers,Pull N Peel,1,Yes,No,No,No,No,No,Chewy,Wrapper,
+Sour Punch,,1,Yes,Yes,No,No,No,No,Chewy,Wrapper,
+Sour Patch Kids,,4,Yes,Yes,No,No,No,No,Chewy,Pouch,
+Sour Brite Crawlers,,2,Yes,Yes,No,No,No,No,Chewy,Pouch,
+Whoppers,,9,No,No,Milk,No,No,No,Crunchy,Wrapper,
+Milky Way,Classic,21,No,No,Milk,No,Yes,Yes,Soft,Wrapper,
+Milky Way,Midnight,3,No,No,Dark,No,Yes,Yes,Soft,Wrapper,
+3 Musketeers,,24,No,No,Milk,No,No,Yes,Soft,Wrapper,
+Snickers,,21,No,No,Milk,Peanut,Yes,Yes,Soft,Wrapper,
+Hersheys,Cookies and Cr�me,13,No,No,White,No,No,No,Crunchy,Wrapper,
+Kit Kat,Bones,2,No,No,White,No,No,No,Crunchy,Wrapper,
+Kit Kat,Witches Brew,7,No,No,White,No,No,No,Crunchy,Wrapper,Green
+Kit Kat,Classic,8,No,No,Milk,No,No,No,Crunchy,Wrapper,
+Kit Kat,Classic Mini,9,No,No,Milk,No,No,No,Crunchy,Wrapper,
+Baby Ruth,,6,No,No,Milk,Peanut,Yes,Yes,Chewy,Wrapper,
+Almond Joy,,2,No,No,Milk,Almond,No,No,Soft,Wrapper,Coconut
+Mounds,,3,No,No,Dark,No,No,No,Soft,Wrapper,Coconut
+Reese's,Classic Mini,12,No,No,Milk,Peanut,No,No,Soft,Wrapper,
+Reese's,Classic,3,No,No,Milk,Peanut,No,No,Soft,Wrapper,
+Reese's,Pumpkin,9,No,No,Milk,Peanut,No,No,Soft,Wrapper,
+Reese's,Bats,12,No,No,Milk,Peanut,No,No,Soft,Wrapper,
+Butterfinger,,3,No,No,Milk,Peanut,No,No,Crunchy,Wrapper,
+Milk Duds,,4,No,No,Milk,No,Yes,No,Chewy,Box,
+Crunch,,10,No,No,Milk,No,No,No,Crunchy,Wrapper,
+Hersheys,Milk Chocolate,10,No,No,Milk,No,No,No,,Wrapper,
+Twix,,12,No,No,Milk,No,Yes,No,Crunchy,Wrapper,
+Rolo,,5,No,No,Milk,No,Yes,No,Soft,Wrapper,
+Blow Pop,Strawberry,2,Yes,No,No,No,No,No,Hard,Sucker,Bubble Gum
+Blow Pop,Sour Apple,3,Yes,Yes,No,No,No,No,Hard,Sucker,Bubble Gum
+Blow Pop,Cherry,3,Yes,No,No,No,No,No,Hard,Sucker,Bubble Gum
+Blow Pop,Grape,3,Yes,No,No,No,No,No,Hard,Sucker,Bubble Gum
+Blow Pop,Watermelon,1,Yes,No,No,No,No,No,Hard,Sucker,Bubble Gum
+Tootsie Roll Pop,Raspberry,3,Yes,No,No,No,No,No,Hard,Sucker,Tootsie Roll
+Tootsie Roll Pop,Chocolate,1,No,No,Flavor,No,No,No,Hard,Sucker,Tootsie Roll
+Tootsie Roll Pop,Cherry,1,Yes,No,No,No,No,No,Hard,Sucker,Tootsie Roll
+Tootsie Roll Pop,Grape,1,Yes,No,No,No,No,No,Hard,Sucker,Tootsie Roll
+Dum Dum,Butterscotch,3,No,No,No,No,No,No,Hard,Sucker,
+Dum Dum,Cream Soda,2,No,No,No,No,No,No,Hard,Sucker,
+Dum Dum,Bubble Gum,2,No,No,No,No,No,No,Hard,Sucker,
+Dum Dum,Mystery Pop,1,,No,No,No,No,No,Hard,Sucker,
+Dum Dum,Pineapple,1,Yes,No,No,No,No,No,Hard,Sucker,
+Dum Dum,Lemon Lime,1,Yes,No,No,No,No,No,Hard,Sucker,
+Dum Dum,Grape,1,Yes,No,No,No,No,No,Hard,Sucker,
+Dum Dum,Cherry,2,Yes,No,No,No,No,No,Hard,Sucker,
+Blow Pop,Mini Cherry,1,Yes,No,No,No,No,No,Hard,Sucker,Bubble Gum
+Blow Pop,Mini Strawberry,1,Yes,No,No,No,No,No,Hard,Sucker,Bubble Gum
+Jolly Rancher Lollipop,Green Apple,2,Yes,Yes,No,No,No,No,Hard,Sucker,
+Jolly Rancher Lollipop,Pink Lemonade,2,Yes,Yes,No,No,No,No,Hard,Sucker,
+Swedish Fish,,1,Yes,No,No,No,No,No,Chewy,Pouch,
+Gummy Cola,,2,No,No,No,No,No,No,Chewy,Pouch,
+Tootsie Roll,,2,No,No,Flavor,No,No,No,Chewy,Wrapper,
+Gummy Bears,,3,Yes,No,No,No,No,No,Chewy,Pouch,
+Starburst,,3,Yes,No,No,No,No,No,Chewy,Wrapper,
+Airheads,Watermelon,1,Yes,No,No,No,No,No,Chewy,Wrapper,
+Cachitos,,2,No,No,Milk,No,No,No,Soft,Wrapper,
+Sweet Tarts,,4,No,Yes,No,No,No,No,Hard,Wrapper,
+Laffy Taffy,Strawberry,1,Yes,No,No,No,No,No,Soft,Wrapper,
+Laffy Taffy,Banana,1,Yes,No,No,No,No,No,Soft,Wrapper,
+100 Grand,,1,No,No,Milk,No,Yes,No,Chewy,Wrapper,
+York Peppermint Patty,,1,No,No,Dark,No,No,No,Soft,Wrapper,Peppermint
+Jolly Rancher,Chewy Cherry,2,Yes,No,No,No,No,No,Chewy,Wrapper,
+Jolly Rancher,Hard Cherry,1,Yes,No,No,No,No,No,Hard,Wrapper,
+Jolly Rancher,Hard Watermelon,1,Yes,No,No,No,No,No,Hard,Wrapper,
+Jolly Rancher,Hard Grape,2,Yes,No,No,No,No,No,Hard,Wrapper,
+Jolly Rancher,Hard Blue Raspberry,1,Yes,No,No,No,No,No,Hard,Wrapper,
+Snickers,Ghoulish Green,1,No,No,White,Peanut,Yes,Yes,Chewy,Wrapper,Green
+Milky Way,Simply Caramel,2,No,No,Milk,No,Yes,No,Soft,Wrapper,
+Heath,,1,No,No,Milk,No,No,No,Crunchy,Wrapper,Toffee
+Jolly Rancher,Chewy Blue Raspberry,1,Yes,No,No,No,No,No,Chewy,Wrapper,
+Kit Kat,White Chocolate,1,No,No,White,No,No,No,Crunchy,Wrapper,
+Smarties,,1,No,No,No,No,No,No,Hard,Wrapper,
+Kit Kat,Pumpkin Pie,1,No,No,White,No,No,No,Crunchy,Wrapper,
+Nerds,Strawberry,1,Yes,Yes,No,No,No,No,Crunchy,Box,
+Halloween Pretzels,,2,No,No,No,No,No,No,Crunchy,Pouch,Savory
+Cheez It,,1,No,No,No,No,No,No,Crunchy,Pouch,Savory
+Fuit Snacks,,1,Yes,No,No,No,No,No,Chewy,Pouch,
+Reese's Pieces Brownie Brittle,,2,No,No,Milk,Peanut,No,No,Crunchy,Pouch,
